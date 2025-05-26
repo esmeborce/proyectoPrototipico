@@ -1,0 +1,57 @@
+Edad:,Sexo,Ocupacion principal:,¿Con que frecuencia usas el metro de la CDMX?,  ¿Con que frecuencia usas la Linea 3 del Metro?  ,¿Alguna vez te han robado en la Li­nea 3 del Metro?  ,"Si respondiste â€œsÃ­â€, Â¿cuÃ¡ntas veces aproximadamente?   ",¿Que te robaron? (marca todas las que apliquen)  ,¿Aproximadamente a que hora fue el robo?,"¿En que estacion ocurrio el robo?
+(responde si lo recuerdas)  ",  ¿En que parte de la estacion te sientes mas insegura (o)?  ,¿Has sido testigo de un robo o asalto en la Linea 3?  , ¿Sueles reportar incidentes de inseguridad?  ,¿Como calificari­as la seguridad en la LÃ­nea 3?  , ¿Estari­as dispuesto(a) a usar una app del Metro con boton de panico?  ,¿Conoces tus derechos como usuario del transporte publico?  , ¿Qué solucion crees que ayudaria mas a reducir los robos?  
+25,Mujer,Estudiante,Diario,Diario,No,0,,,,Accesos (entrada/salida),No,No suelo reportarlos,Muy segura,No,Si,Más vigilancia
+20,Mujer,Estudiante,3 a 4 veces por semana,Varias veces por semana,No,0,,,,Accesos (entrada/salida),No,No suelo reportarlos,Aceptable,Si,Parcialmente,Mas vigilancia
+25,Mujer,Estudiante,3 a 4 veces por semana,Varias veces por semana,No,0,,,,Accesos (entrada/salida),No,"Si, a la polici­a del metro",Aceptable,Tal vez,Parcialmente,Mas vigilancia
+25,Mujer,Ambos,3 a veces por semana,Ocasionalmente,No,0,,,,Dentro del vagÃ³n,No,"Si, a la policia del metro",Insegura,Si,No,Mas vigilancia
+25,Mujer,Estudiante,1 a veces por semana,Varias veces por semana,No,0,,,,Accesos (entrada/salida),No,"Si, a la polici­a del metro",Aceptable,Si,No,Boton de alerta
+27,Hombre,Estudiante,3 a 4veces por semana,Casi nunca,No,0,,,,Dentro del vagÃ³n,Si,"Si, a la polici­a del metro",Insegura,Si,No,Camaras inteligentes
+27,Mujer,Trabajador/a,1 a 2 veces por semana,Casi nunca,No,0,,,,Pasillos de conexiÃ³n,Si,No suelo reportarlos,Insegura,Tal vez,No,Mas vigilancia
+25,Otro,Estudiante,Diario,Diario,No,0,,,,Taquillas,No,"Si, a la polici­a del metro",Aceptable,Si,Parcialmente,Camaras inteligentes
+35,Mujer,Ambos,Diario,Diario,No,0,,,,Dentro del vagÃ³n,No,"Si, a la policia del metro",Insegura,Si,Parcialmente,Camaras inteligentes
+28,Mujer,Trabajador/a,Raramente,Ocasionalmente,No,0,,,,Dentro del vagÃ³n,No,"Si, a la policia del metro",Aceptable,Si,No,Boton de alerta
+26,Mujer,Trabajador/a,Diario,Diario,No,0,,,,Pasillos de conexiÃ³n,No,"Si, a la polici­a del metro",Aceptable,Si,Parcialmente,Camaras inteligentes
+33,Hombre,Ambos,Raramente,Casi nunca,No,0,,,,Anden,Si,No suelo reportarlos,Segura,Tal vez,No,Camaras inteligentes
+36,Hombre,Trabajador/a,Diario,Ocasionalmente,No,0,,,,Pasillos de conexiÃ³n,No,No suelo reportarlos,Insegura,Si,No,Campañas de denuncia
+30,Mujer,Trabajador/a,Diario,Ocasionalmente,No,0,,,,Pasillos de conexiÃ³n,No,No suelo reportarlos,Insegura,Si,No,Campañas de denuncia
+22,Mujer,Estudiante,Diario,Varias veces por semana,Sí,1,"Celular, Cartera",18:00–21:00,Indios Verdes,Andén,Sí,No,Muy insegura,Sí,Parcialmente,Cámaras inteligentes
+29,Hombre,Trabajador/a,Diario,Diario,No,0,,,,Dentro del vagón,No,Redes sociales,Insegura,Tal vez,No,Más vigilancia
+19,Hombre,Estudiante,3–4 veces por semana,Ocasionalmente,Sí,2,"Mochila, Laptop",15:00–18:00,La Raza,Pasillos de conexión,Sí,Policía del Metro,Insegura,No,Sí,Botón de alerta
+25,Mujer,Ambos,3–4 veces por semana,Varias veces por semana,Sí,1,Celular,6:00–9:00,Hidalgo,Accesos,No,No,Aceptable,Sí,No,Cámaras inteligentes
+24,Otro,Estudiante,1–2 veces por semana,Ocasionalmente,No,0,,,,Dentro del vagón,Sí,No,Muy insegura,Tal vez,Parcialmente,Campañas de denuncia
+27,Hombre,Estudiante,3–4 veces por semana,Diario,Sí,3,"Cartera, Laptop, Reloj",18:00–21:00,Zapata,Andén,No,No,Insegura,Sí,Parcialmente,Botón de alerta
+31,Mujer,Trabajador/a,3–4 veces por semana,Varias veces por semana,No,0,,,,Taquillas,Sí,Policía del Metro,Insegura,No,No,Más vigilancia
+18,Mujer,Estudiante,Diario,Diario,Sí,1,Celular,18:00–21:00,Indios Verdes,Pasillos de conexión,No,No,Aceptable,Sí,Sí,Cámaras inteligentes
+35,Mujer,Ambos,Diario,Varias veces por semana,Sí,1,Audífonos (Otro),9:00–12:00,,Andén,Sí,Redes sociales,Muy insegura,Tal vez,Parcialmente,Botón de alerta
+28,Mujer,Trabajador/a,Raramente,Casi nunca,No,0,,,,Dentro del vagón,No,No,Insegura,Sí,No,Más vigilancia
+26,Mujer,Trabajador/a,Diario,Diario,Sí,2,"Cartera, Bolso",18:00–21:00,Hidalgo,Accesos,Sí,No,Muy insegura,Sí,Parcialmente,Otra: Mejor iluminación
+33,Hombre,Ambos,Raramente,Casi nunca,No,0,,,,Andén,Sí,No,Insegura,No,No,Campañas de denuncia
+36,Hombre,Trabajador/a,Diario,Diario,Sí,1,Celular,6:00–9:00,Balderas,Dentro del vagón,No,No,Aceptable,Tal vez,Sí,Botón de alerta
+30,Mujer,Trabajador/a,Diario,Diario,No,0,,,,Pasillos de conexión,Sí,Policía del Metro,Insegura,Sí,Parcialmente,Cámaras inteligentes
+21,Mujer,Estudiante,Diario,Varias veces por semana,Sí,1,Mochila,15:00–18:00,Guerrero,Andén,No,No,Insegura,Sí,No,Botón de alerta
+23,Hombre,Estudiante,3–4 veces por semana,Ocasionalmente,Sí,1,"Celular, Tarjetas (Otro)",18:00–21:00,Indios Verdes,Taquillas,Sí,Redes sociales,Muy insegura,No,Parcialmente,Más vigilancia
+34,Prefiere no decirlo,Trabajador/a,1–2 veces por semana,Casi nunca,No,0,,,,Accesos,No,No,Aceptable,Tal vez,No,Cámaras inteligentes
+32,Mujer,Ambos,Diario,Diario,Sí,2,"Laptop, Cartera",6:00–9:00,La Raza,Dentro del vagón,Sí,No,Insegura,Sí,Sí,Otra: Patrullas policiales
+27,Hombre,Trabajador/a,3–4 veces por semana,Varias veces por semana,No,0,,,,Andén,Sí,Policía del Metro,Muy insegura,Sí,Parcialmente,Botón de alerta
+19,Mujer,Estudiante,Diario,Diario,Sí,1,Celular,18:00–21:00,Hidalgo,Pasillos de conexión,No,No,Insegura,No,No,Más vigilancia
+24,Hombre,Estudiante,1–2 veces por semana,Ocasionalmente,No,0,,,,Dentro del vagón,No,Redes sociales,Aceptable,Tal vez,Parcialmente,Campañas de denuncia
+38,Mujer,Trabajador/a,Diario,Diario,Sí,1,Joyería (Otro),12:00–15:00,,Andén,Sí,No,Muy insegura,Sí,No,Cámaras inteligentes
+29,Otro,Ambos,3–4 veces por semana,Varias veces por semana,No,0,,,,Accesos,No,No,Insegura,Sí,Parcialmente,Botón de alerta
+22,Hombre,Estudiante,Diario,Diario,No,0,,,,Taquillas,Sí,No,Muy insegura,No,Sí,Más vigilancia
+31,Mujer,Trabajador/a,Raramente,Casi nunca,Sí,1,"Mochila, Celular",18:00–21:00,Indios Verdes,Pasillos de conexión,Sí,Policía del Metro,Insegura,Sí,No,Otra: Sensores en vagones
+25,Mujer,Estudiante,3–4 veces por semana,Varias veces por semana,Sí,1,Cartera,6:00–9:00,Hidalgo,Andén,No,No,Insegura,Tal vez,Parcialmente,Cámaras inteligentes
+40,Hombre,Trabajador/a,Diario,Diario,No,0,,,,Dentro del vagón,Sí,Redes sociales,Muy insegura,No,No,Botón de alerta
+26,Mujer,Ambos,Diario,Diario,Sí,2,"Laptop, Auriculares (Otro)",15:00–18:00,Zapata,Accesos,No,No,Aceptable,Sí,Parcialmente,Campañas de denuncia
+28,Hombre,Trabajador/a,1–2 veces por semana,Ocasionalmente,No,0,,,,Andén,Sí,No,Insegura,Tal vez,No,Más vigilancia
+33,Mujer,Trabajador/a,Diario,Diario,No,0,,,,Pasillos de conexión,No,No,Aceptable,Sí,Sí,Cámaras inteligentes
+21,Hombre,Estudiante,3–4 veces por semana,Ocasionalmente,Sí,1,Celular,18:00–21:00,Indios Verdes,Dentro del vagón,Sí,Policía del Metro,Muy insegura,No,Parcialmente,Botón de alerta
+37,Prefiere no decirlo,Trabajador/a,Raramente,Casi nunca,No,0,,,,Andén,No,Redes sociales,Insegura,Sí,No,Otra: Paneles informativos
+24,Mujer,Estudiante,Diario,Diario,Sí,1,"Bolso, Documentos (Otro)",18:00–21:00,,Taquillas,Sí,No,Muy insegura,Tal vez,Parcialmente,Cámaras inteligentes
+29,Hombre,Trabajador/a,3–4 veces por semana,Varias veces por semana,No,0,,,,Accesos,No,No,Aceptable,Sí,Parcialmente,Más vigilancia
+19,Mujer,Estudiante,1–2 veces por semana,Ocasionalmente,No,0,,,,Pasillos de conexión,Sí,No,Insegura,No,No,Botón de alerta
+35,Hombre,Ambos,Diario,Diario,Sí,1,Celular,6:00–9:00,La Raza,Andén,Sí,Policía del Metro,Muy insegura,Sí,Sí,Campañas de denuncia
+27,Mujer,Trabajador/a,Diario,Diario,No,0,,,,Dentro del vagón,No,No,Insegura,Tal vez,Parcialmente,Otra: Educación ciudadana
+22,Otro,Estudiante,3–4 veces por semana,Varias veces por semana,No,0,,,,Accesos,No,No,Aceptable,Sí,No,Cámaras inteligentes
+20,Mujer,Ambos,3–4 veces por semana,Ocasionalmente,No,0,,,,Andén,Sí,Redes sociales,Muy insegura,No,Parcialmente,Más vigilancia
+21,Mujer,Ambos,3–4 veces por semana,Ocasionalmente,No ,0,,,,Pasillos de conexión,No,No,Insegura,Sí,Sí,Botón de alerta
+,,,,,,25,,,,,,,,,,
